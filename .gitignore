@@ -1,0 +1,5 @@
+# Ignore temporary office files
+~$*
+
+# Ignore VSCODE files
+.vscode
